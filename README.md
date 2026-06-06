@@ -42,3 +42,5 @@ membres du groupe :
 * Bassit Lucas
 * Adegboyega Augustin
 * Sayed Hussein
+
+lien du deploiement GitHub Pages : https://khalilrim.github.io/landing-page-SEO/
