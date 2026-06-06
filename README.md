@@ -1,8 +1,8 @@
-DakarFood Express - Landing Page SEO
+DakarEats - Landing Page optimisée SEO
 
 Description du projet
 
-DakarFood Express est une landing page fictive créée dans le cadre d’un exercice d’introduction au référencement SEO.
+DakarEats est une landing page fictive créée dans le cadre d’un exercice d’introduction au référencement SEO.
 
 L’objectif du projet est de créer une page optimisée pour les moteurs de recherche tout en améliorant l’expérience utilisateur.
 
@@ -11,17 +11,19 @@ Objectifs du projet
 * Créer une landing page HTML complète
 * Appliquer les bases du référencement SEO
 * Concevoir une interface responsive
-* Ajouter un formulaire de conversion utilisateur
+* Encourager les visiteurs à commander ou télécharger l’application
 
 Fonctionnalités
 
 * Landing page responsive
 * Titre optimisé SEO
-* Meta description
+* Meta description optimisée
 * Structure H1 / H2 / H3
 * Boutons d’action (CTA)
 * Formulaire utilisateur
+* Présentation des zones desservies
 * Optimisation locale (Dakar, Plateau, Almadies, Mermoz)
+* Informations de contact
 
 Technologies utilisées
 
@@ -30,10 +32,16 @@ Technologies utilisées
 
 Structure du projet
 
-* index.html
-* README.md
+* index.html : contient la structure HTML et le style CSS intégré
+* README.md : documentation du projet
 
-membres du groupe :
+Zones desservies
+
+* Plateau
+* Almadies
+* Mermoz
+
+Membres du groupe
 
 * Khalil Rim
 * Cisse Zakaria
@@ -43,4 +51,6 @@ membres du groupe :
 * Adegboyega Augustin
 * Sayed Hussein
 
-lien du deploiement GitHub Pages : https://khalilrim.github.io/landing-page-SEO/
+Lien de déploiement GitHub Pages
+
+https://khalilrim.github.io/landing-page-SEO/
